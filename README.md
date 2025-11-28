@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**JoelMbuyi05/JoelMbuyi05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Joel Mbuyi, a third-year IT student based in Cape Town, SA
+I have a strong passion for crafting clean, intuitive, and responsive user interfaces, solving problems, and learning new technologies fast.
+I thrive in collaborative environments and love turning ideas into functional, beautiful web experiences.
 
-Here are some ideas to get you started:
+I’m driven by the goal to leave my footprint in tech and create solutions that make a real impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech & Stack
+
+- HTML, JavaScript
+- Tailwind CSS
+- Firebase
+- Responsive design, problem-solving, quick adaptation to to new tech.
