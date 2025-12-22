@@ -10,4 +10,4 @@ Tech & Stack
 - HTML, JavaScript
 - Tailwind CSS
 - Firebase
-- Responsive design, problem-solving, quick adaptation to to new tech.
+- Responsive design, problem-solving, quick adaptation to new tech.
