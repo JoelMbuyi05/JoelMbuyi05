@@ -11,4 +11,5 @@ Tech & Stack
 - JavaScript
 - Tailwind CSS
 - Firebase
+- Supabase
 - Responsive design, problem-solving, quick adaptation to new tech.
