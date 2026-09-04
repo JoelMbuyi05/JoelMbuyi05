@@ -35,5 +35,5 @@ IT Support → Systems Administration → Cloud Engineering
 
 ### 📫 Connect With Me
 
-[LinkedIn]: https://www.linkedin.com/in/joelmbuyi05/
+[LinkedIn]: (https://www.linkedin.com/in/joelmbuyi05/)
 joelmbuyi700@gmail.com
