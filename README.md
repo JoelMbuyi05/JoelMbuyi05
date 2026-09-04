@@ -1,15 +1,39 @@
 ## Hi there 👋
 
-I’m Joel Mbuyi, Graduate Software Developer based in Cape Town, SA.
-Specialized in front-end development with a passion for building clean, intuitive user interfaces. Problem-solving skills, quick to adapt to new technologies and collaborating in a team.
+I’m Joel Mbuyi, 
 
-I’m driven by the goal to leave my footprint in tech and create solutions that make a real impact.
+### IT Support | Systems Administration | Cloud
 
-Tech & Stack
+IT Support professional with hands-on experience in Windows, Microsoft 365,
+Entra ID, Intune, and basic networking.
 
-- HTML, CSS
-- JavaScript
-- Tailwind CSS
-- Firebase
-- Supabase
-- Responsive design, problem-solving, quick adaptation to new tech.
+I enjoy troubleshooting problems, supporting users, and building practical
+solutions that make IT environments more reliable and efficient.
+
+### 🛠️ What I'm Working With
+
+- Windows & Microsoft 365
+- Microsoft Entra ID & Intune
+- Azure
+- Networking
+- Linux
+- PowerShell
+- Git & GitHub
+
+### 🚀 Currently Learning
+
+- Microsoft Azure Administration
+- PowerShell & Automation
+- Linux Administration
+- Systems Administration
+- Cloud Infrastructure
+
+### 📌 Career Direction
+
+IT Support → Systems Administration → Cloud Engineering
+
+
+### 📫 Connect With Me
+
+[LinkedIn]: https://www.linkedin.com/in/joelmbuyi05/
+joelmbuyi700@gmail.com
