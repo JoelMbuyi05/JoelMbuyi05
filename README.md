@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-### I'm Joel Mbuyi
+### I'm Joel Mbuyi,
 
 **IT Technician → Systems Administration → Cloud/DevOps Engineering**
 
