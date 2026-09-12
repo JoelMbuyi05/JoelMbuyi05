@@ -1,39 +1,22 @@
-## Hi there 👋
+### Hi there 👋 I'm Joel Mbuyi
 
-I’m Joel Mbuyi, 
+**IT Support → Systems Administration → Cloud/DevOps Engineering**
 
-### IT Support | Systems Administration | Cloud
+IT Support professional with hands-on experience in Windows, Microsoft 365, Entra ID, and Intune, currently building toward Azure administration, security, and DevOps. I document every lab and project here — this isn't just cert prep, it's a working portfolio.
 
-IT Support professional with hands-on experience in Windows, Microsoft 365,
-Entra ID, Intune, and basic networking.
+---
 
-I enjoy troubleshooting problems, supporting users, and building practical
-solutions that make IT environments more reliable and efficient.
+**🎯 Certification path**: AZ-900 → MD-102 → AZ-104 → SC-500 → AZ-400
+*(Currently: [update this line as you progress, e.g. "Studying MD-102 — target: end of September"])*
 
-### 🛠️ What I'm Working With
+**🛠️ Core tools**
+Microsoft Intune · Entra ID · Azure (Portal, CLI, PowerShell, Bicep) · PowerShell & Microsoft Graph SDK · Git & GitHub · Windows Server (AD/GPO) · Networking fundamentals
 
-- Windows & Microsoft 365
-- Microsoft Entra ID & Intune
-- Azure
-- Networking
-- Linux
-- PowerShell
-- Git & GitHub
+**📂 Featured projects**
+- 🖥️ [azure-foundations-lab](link) — small business Azure environment: VNet, VM, storage, monitoring, with architecture diagram and cost breakdown
+- 🔐 [intune-endpoint-lab](link) — full company endpoint management program: enrollment, compliance, Conditional Access, tested end-to-end
+- ☁️ [azure-infra-lab](link) — segmented enterprise network built with Bicep: RBAC, NSGs, backup, monitoring
+*(add security-posture-lab and cicd-pipeline-demo here once built)*
 
-### 🚀 Currently Learning
-
-- Microsoft Azure Administration
-- PowerShell & Automation
-- Linux Administration
-- Systems Administration
-- Cloud Infrastructure
-
-### 📌 Career Direction
-
-IT Support → Systems Administration → Cloud Engineering
-
-
-### 📫 Connect With Me
-
-Linkedin: https://www.linkedin.com/in/joelmbuyi05/ & 
-Email: joelmbuyi700@gmail.com
+**📫 Connect**
+[LinkedIn](https://www.linkedin.com/in/joelmbuyi05/) · joelmbuyi700@gmail.com
