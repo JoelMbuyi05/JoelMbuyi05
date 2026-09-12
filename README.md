@@ -1,6 +1,8 @@
-### Hi there 👋 I'm Joel Mbuyi
+### Hi there 👋 
 
-**IT Support → Systems Administration → Cloud/DevOps Engineering**
+### I'm Joel Mbuyi
+
+**IT Technician → Systems Administration → Cloud/DevOps Engineering**
 
 IT Support professional with hands-on experience in Windows, Microsoft 365, Entra ID, and Intune, currently building toward Azure administration, security, and DevOps. I document every lab and project here — this isn't just cert prep, it's a working portfolio.
 
