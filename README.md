@@ -14,8 +14,8 @@ IT Support professional with hands-on experience in Windows, Microsoft 365, Entr
 Microsoft Intune · Entra ID · Azure (Portal, CLI, PowerShell) · PowerShell & Microsoft Graph SDK · Git & GitHub · Windows Server (AD) · Networking fundamentals
 
 **📂 Featured projects**
-- 🔐 [intune-endpoint-lab](link) — full company endpoint management program: enrollment, compliance, Conditional Access, tested end-to-end
 - 🖥️ [azure-foundations-lab](link) — small business Azure environment: VNet, VM, storage, monitoring, with architecture diagram and cost breakdown
+- - 🔐 [intune-endpoint-lab](link) — full company endpoint management program: enrollment, compliance, Conditional Access, tested end-to-end
 
 **📫 Connect**
 [LinkedIn](https://www.linkedin.com/in/joelmbuyi05/) · joelmbuyi700@gmail.com
