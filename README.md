@@ -8,7 +8,7 @@ I'm building practical skills in enterprise IT infrastructure, systems administr
 
 ---
 
-**Current focus**
+### Current focus
 
 - Windows Server, Active Directory and Group Policy
 - Microsoft Entra ID, Microsoft 365 and Intune
@@ -16,7 +16,7 @@ I'm building practical skills in enterprise IT infrastructure, systems administr
 - Networking fundamentals and troubleshooting
 - Linux administration, Bash and Git
 
-**My learning path**
+### My learning path
 
 - Enterprise IT Support & Systems Administration
 - Linux, Networking & Infrastructure Automation
@@ -24,13 +24,13 @@ I'm building practical skills in enterprise IT infrastructure, systems administr
 - Docker, Kubernetes & CI/CD
 - Production Cloud Infrastructure & GitOps
 
-**Certifications**
+### Certifications
 
 - In progress: Microsoft 365 Endpoint Administrator (MD-102)
 - Planned: AWS Certified Solutions Architect – Associate
 - Planned: Certified Kubernetes Administrator (CKA)
 
-**What you'll find here**
+### What you'll find here
 
 - Enterprise IT administration lab
 - PowerShell automation projects
