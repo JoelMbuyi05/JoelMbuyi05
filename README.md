@@ -4,18 +4,43 @@
 
 **IT Technician → Systems Administration → Cloud/DevOps Engineering**
 
-IT Support professional with hands-on experience in Windows, Microsoft 365, Entra ID, and Intune, currently building toward Azure administration, security, and DevOps. I document every lab and project here — this isn't just cert prep, it's a working portfolio.
+I'm building practical skills in enterprise IT infrastructure, systems administration, cloud engineering and DevOps.
 
 ---
 
-**🎯 Certification path**: AZ-900 → MD-102 → AZ-104 → SC-500 → AZ-400
+**Current focus**
 
-**🛠️ Core tools**
-Microsoft Intune · Entra ID · Azure (Portal, CLI, PowerShell) · PowerShell & Microsoft Graph SDK · Git & GitHub · Windows Server (AD) · Networking fundamentals
+- Windows Server, Active Directory and Group Policy
+- Microsoft Entra ID, Microsoft 365 and Intune
+- PowerShell and IT infrastructure automation
+- Networking fundamentals and troubleshooting
+- Linux administration, Bash and Git
 
-**📂 Featured projects**
-- 🖥️ [azure-foundations-lab](link) — small business Azure environment: VNet, VM, storage, monitoring, with architecture diagram and cost breakdown
-- 🔐 [intune-endpoint-lab](link) — full company endpoint management program: enrollment, compliance, Conditional Access, tested end-to-end
+**My learning path**
+
+- Enterprise IT Support & Systems Administration
+- Linux, Networking & Infrastructure Automation
+- AWS Cloud Engineering & Terraform
+- Docker, Kubernetes & CI/CD
+- Production Cloud Infrastructure & GitOps
+
+**Certifications**
+
+- In progress: Microsoft 365 Endpoint Administrator (MD-102)
+- Planned: AWS Certified Solutions Architect – Associate
+- Planned: Certified Kubernetes Administrator (CKA)
+
+**What you'll find here**
+
+- Enterprise IT administration lab
+- PowerShell automation projects
+- Windows and Linux infrastructure exercises
+- AWS and Terraform architecture projects
+- Containerisation, CI/CD and Kubernetes projects
+
+I believe in learning by building, documenting and troubleshooting real-world scenarios.
+
+My goal: Become a strong infrastructure and cloud professional who can design, automate, secure and operate reliable enterprise systems.
 
 **📫 Connect**
 [LinkedIn](https://www.linkedin.com/in/joelmbuyi05/) · joelmbuyi700@gmail.com
